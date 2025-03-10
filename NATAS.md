@@ -26,9 +26,3 @@ Cookie base64:HmYkBwozJw4WNyAAFyB1VUcqOE1JZjUIBis7ABdmbU1GIjEJAyIxTRg
 Contraseña:yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
 #### Natas Nivel 11 → Nivel 12
 Contraseña:trbs5pCjCrkuSknBBKHhaBxq6Wm1j3LC 
-#### Natas Nivel 12 → Nivel 13
-Contraseña:
-#### Natas Nivel 13 → Nivel 14
-Contraseña:
-#### Natas Nivel 14 → Nivel 15
-Contraseña:
